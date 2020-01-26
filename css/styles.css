@@ -1,7 +1,7 @@
 /*tag selector*/
 body {
-  background-color: #678a74;
-  color: #e9e2d0;
+  background-color: #1d4d4f;
+  color: #fff1cf;
 }
 
 hr {
@@ -27,7 +27,13 @@ h3 {
 }
 /*class selector*/
 .skill{
-  color:#192965;
+  color:#9aceff;
+}
+.overcome:hover{ background-color:#3a3535;
+
+}
+.zoom:hover {
+  transform: scale(1.5);
 }
 
 /*id selector*/
